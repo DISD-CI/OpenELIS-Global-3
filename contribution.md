@@ -1,1 +1,2 @@
 Benedicte Kouame
+Degna Gnahore
