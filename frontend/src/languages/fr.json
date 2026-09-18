@@ -377,9 +377,9 @@
   "sample.label.orderdate": "Date de l'Ordonnance",
   "sample.label.labnumber": "Numéro de Laboratoire",
   "sample.label.labnumber.generate": "Générer",
-  "sample.label.facility": "Établissement Référant",
-  "sample.label.requester": "Demandeur",
-  "sample.label.dept": "Service/Département/Unité",
+  "sample.label.facility": "G5 Établissement référent",
+  "sample.label.requester": "G5 Médecin demandeur",
+  "sample.label.dept": "G5 Service, département ou unité",
   "label.button.uploadfile": "Télécharger le Fichier",
   "label.button.select": "Sélectionner",
   "label.button.add": "Ajouter",
@@ -1958,5 +1958,6 @@
   "dictionary.hpv.hw.sampling": "Fait par un prestataire de sant\u00E9",
   "HIVStatus.HIVDual": "HIV-1+2",
   "HIVStatus.HIV_1": "HIV-1",
-  "HIVStatus.HIV_2": "HIV-2"
+  "HIVStatus.HIV_2": "HIV-2",
+  "atelier.g5.aide": "G5 Le type d'echantillon determine les analyses disponibles"
 }
