@@ -114,8 +114,16 @@ export default function WorkplanSearchForm(props) {
         <Column lg={16} md={8} sm={4}>
           <Section>
             <h5 className="contentHeader2">
-              <FormattedMessage id="label.form.searchby" />
-              &nbsp; {title}{" "}
+              <FormattedMessage id="atelier.g4.aide" />
+ 
+              
+            </h5>
+          </Section>
+          <Section>
+            <h5 className="contentHeader2">
+              <FormattedMessage id="workplan.run.unit" />
+ 
+              
             </h5>
           </Section>
         </Column>
