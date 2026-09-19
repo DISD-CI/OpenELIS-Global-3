@@ -514,6 +514,7 @@
   "dashboard.turn.around.subtitle.label": "Dépassement de 96 heures",
   "dashboard.avg.turn.around.label": "Temps de traitement moyen",
   "dashboard.partially.completed.label": "G1 Partiellement terminées aujourd'hui",
+  "atelier.g1.rappel": "G1 Les chiffres sont mis a jour a chaque rafraichissement de la page",
   "dashboard.partially.completed..subtitle.label": "Total des ordonnances partiellement complétées aujourd'hui",
   "dashboard.user.orders.label": "Ordonnances saisies par l'utilisateur",
   "dashboard.user.orders.today.label": "Ordonnances saisies par l'utilisateur aujourd'hui",
