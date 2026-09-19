@@ -20,3 +20,5 @@ y compris apres `mvn spotless:apply`.
 - Juste Armel AKA | DIS | 2026-09-16
 - Kouame Abdoulaye Ouattara KRA | LNSP | 2026-09-16
 - Thierry BOMO | DAP | 2026-09-16
+- Bonjour ines
+- Skaragher
