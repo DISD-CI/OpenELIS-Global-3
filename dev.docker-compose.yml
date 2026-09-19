@@ -106,7 +106,8 @@ services:
 
          
     frontend.openelis.org:
-        image: itechuw/openelis-global-2-frontend-dev:develop
+        #image: itechuw/openelis-global-2-frontend-dev:develop
+        image: disdci/openelis-frontend-dev:atelier-2026-09
         container_name: openelisglobal-front-end
         platform: linux/amd64
         networks:
