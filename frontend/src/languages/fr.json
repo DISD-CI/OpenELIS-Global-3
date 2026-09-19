@@ -1958,5 +1958,7 @@
   "dictionary.hpv.hw.sampling": "Fait par un prestataire de sant\u00E9",
   "HIVStatus.HIVDual": "HIV-1+2",
   "HIVStatus.HIV_1": "HIV-1",
-  "HIVStatus.HIV_2": "HIV-2"
+  "HIVStatus.HIV_2": "HIV-2",
+  "atelier.g2.footer.ministere": "G2 Ministere de la Sante, de l'Hygiene Publique et de la Couverture Maladie Universelle",
+  "atelier.g2.footer.direction": "G2 Direction de l'Informatique et de la Sante Digitale"
 }
